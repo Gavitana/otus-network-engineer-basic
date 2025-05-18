@@ -7,7 +7,7 @@
 ### Лабораторные работы
 
 1. [Базовая настройка коммутатора](./labs/basic-switch-configuration)
-
+1. [Просмотр таблицы MAC-адресов коммутатора ](./labs/viewing-switch-MAC-address-table)
 
 
 ### Финальный проект
